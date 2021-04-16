@@ -1,4 +1,4 @@
-# Sign In App || Backend
+# Sign In App || Frontend
 
 ## ⚙️ Technologies Used
 - React
@@ -8,9 +8,9 @@
 - Heroku (for deployment)
 
 ## 📸 Screenshots
-![ERD](/images/ERD.png)
-![WIREFRAME](/images/Wireframe.png)
-![live](/images/live.png)
+![ERD](./images/ERD.png)
+![WIREFRAME](./images/Wireframe.png)
+![live](./images/live.png)
 
 ## 🎬 Getting Started
 [Click](https://git.heroku.com/patient-frontend.git) here to see the live app! 
