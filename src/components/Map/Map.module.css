@@ -1,0 +1,8 @@
+.Map {
+  display: flex;
+ 
+  align-items: center;
+  height: 30vh;
+  width: 65vh;
+
+}
