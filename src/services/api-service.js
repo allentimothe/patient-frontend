@@ -1,8 +1,8 @@
-// const host = process.env.REACT_APP_DEV ?
-//   'http://localhost:3001' :
-//   'https://react-patient-signin.herokuapp.com';
+const host = process.env.REACT_APP_DEV ?
+  'http://localhost:3001' :
+  'https://git.heroku.com/at-patient-backend.git';
 
-const BASE_URL = "http://localhost:3001/api/patients";
+const BASE_URL = host + "/api/patients";
 
 
 
